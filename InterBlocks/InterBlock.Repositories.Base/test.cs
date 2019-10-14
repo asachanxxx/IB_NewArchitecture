@@ -18,6 +18,7 @@ namespace InterBlock.Repositories.Base
             //Usage
             var result = context.QueryProcessor.ExcuteStoredProcedureToSave<TestClass>("MySPName", new TestClass() { Id = 1, ValueString = "Test", ValueDecimal = 1234 });
 
+            ExtendedRepository<TestClass> db = new ExtendedRepository<TestClass>(new Helpers.Configurations.IBConfiguration() { Connection =  new Helpers.Configurations.Connections("Constr") , DbType = Helpers.Enums.DataBaseType.MSSql });
             
         }
 
