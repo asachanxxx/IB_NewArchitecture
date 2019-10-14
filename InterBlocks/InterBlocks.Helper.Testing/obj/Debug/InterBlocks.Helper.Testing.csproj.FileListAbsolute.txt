@@ -1,0 +1,5 @@
+I:\IB\Technology Revamp\InterBlocks\InterBlocks.Helper.Testing\bin\Debug\InterBlocks.Helper.Testing.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlocks.Helper.Testing\bin\Debug\InterBlocks.Helper.Testing.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlocks.Helper.Testing\obj\Debug\InterBlocks.Helper.Testing.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\InterBlocks\InterBlocks.Helper.Testing\obj\Debug\InterBlocks.Helper.Testing.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlocks.Helper.Testing\obj\Debug\InterBlocks.Helper.Testing.pdb

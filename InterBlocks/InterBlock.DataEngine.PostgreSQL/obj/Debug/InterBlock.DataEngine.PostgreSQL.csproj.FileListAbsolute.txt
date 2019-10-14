@@ -1,0 +1,15 @@
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.xml
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Interfaces.pdb

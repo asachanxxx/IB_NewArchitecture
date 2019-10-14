@@ -1,0 +1,15 @@
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.DataEngine.MySQL.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\Dapper.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\Dapper.xml
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Interfaces.pdb

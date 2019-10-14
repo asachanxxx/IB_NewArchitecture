@@ -1,0 +1,7 @@
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\bin\Debug\Dapper.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.BI.Models\bin\Debug\Dapper.xml
