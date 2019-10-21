@@ -49,6 +49,11 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositori
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Interfaces.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Base.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.Contrib.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.Contrib.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csproj.CopyComplete

@@ -25,6 +25,9 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\bin\Debug\InterBlock.Helpers.Enums.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\bin\Debug\InterBlock.Helpers.Interfaces.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\bin\Debug\Dapper.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\obj\Debug\InterBlock.DataEngine.MSSQL.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\obj\Debug\InterBlock.DataEngine.MSSQL.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\obj\Debug\InterBlock.DataEngine.MSSQL.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\obj\Debug\InterBlock.DataEngine.MSSQL.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MSSQL\obj\Debug\InterBlock.DataEngine.MSSQL.csproj.CopyComplete

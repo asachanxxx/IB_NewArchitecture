@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ Author      : S.G Asanga Chandrakumara
+ Purpose     : Defined set of extended data accessing functionalities across all the contexts
+ DateCreated : 21/10/2019 
+ DateModified: 21/10/2019
+ Note:       : Any changes needs to implement in extended classes and interfaces.Changing the 
+               names and signatures of the method will affect existing implementations So do with extreme caution 
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace InterBlock.Helpers.Interfaces
 {
+    
     public interface iDBContextExtendedBase
     {
         /// <summary>

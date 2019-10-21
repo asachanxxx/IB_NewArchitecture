@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace InterBlock.DataEngine.Common
 {
-    public abstract class DBContextExtendedBase: iDBContextExtendedBase
+    public abstract class DBContextExtendedBase
     {
         private IBConfiguration _config;
 
@@ -57,36 +57,36 @@ namespace InterBlock.DataEngine.Common
             }
         }
 
-        public virtual Task<int> ExcuteStoredProcedureToSave<T>(string SPName, T Object) where T : class
-        {
-            throw new NotImplementedException();
-        }
+        //public virtual Task<int> ExcuteStoredProcedureToSave<T>(string SPName, T Object) where T : class
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        public virtual Task<IEnumerable<T>> QueryMultipleUsingSQLStatement<T>(string SQL) where T : class
-        {
-            throw new NotImplementedException();
-        }
+        //public virtual Task<IEnumerable<T>> QueryMultipleUsingSQLStatement<T>(string SQL) where T : class
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        public virtual Task<IEnumerable<T>> QueryMultipleUsingStoredProcedure<T>(string SPName) where T : class
-        {
-            throw new NotImplementedException();
-        }
+        //public virtual Task<IEnumerable<T>> QueryMultipleUsingStoredProcedure<T>(string SPName) where T : class
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        public virtual Task<T> QuerySingleUsingSQLStatement<T>(string SQL) where T : class
-        {
-            throw new NotImplementedException();
-        }
+        //public virtual Task<T> QuerySingleUsingSQLStatement<T>(string SQL) where T : class
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        public virtual Task<T> QuerySingleUsingStoredProcedure<T>(string SPName) where T : class
-        {
-            throw new NotImplementedException();
-        }
+        //public virtual Task<T> QuerySingleUsingStoredProcedure<T>(string SPName) where T : class
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        public virtual Task<IEnumerable<TOut>> QueryTypedStoredProcedure<TPassing, TOut>(string SPName, TPassing Object)
-            where TPassing : class
-            where TOut : class
-        {
-            throw new NotImplementedException();
-        }
+        //public virtual Task<IEnumerable<TOut>> QueryTypedStoredProcedure<TPassing, TOut>(string SPName, TPassing Object)
+        //    where TPassing : class
+        //    where TOut : class
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

@@ -1,0 +1,13 @@
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\InterBlock.DataEngine.EF.dll.config
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\InterBlock.DataEngine.EF.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\InterBlock.DataEngine.EF.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\EntityFramework.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\EntityFramework.SqlServer.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\EntityFramework.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\bin\Debug\EntityFramework.SqlServer.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\obj\Debug\InterBlock.DataEngine.EF.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\obj\Debug\InterBlock.DataEngine.EF.csproj.CopyComplete
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\obj\Debug\InterBlock.DataEngine.EF.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.EF\obj\Debug\InterBlock.DataEngine.EF.pdb

@@ -14,7 +14,7 @@ namespace InterBlock.Repositories.Base
         Task<int> SaveMulti(T Entity, int Action);
         Task<bool> DeleteSingle(T Entity);
         Task<bool> DeleteSingle(int Id);
-        Task<bool> DeleteMulti(T Entity);
+        Task<bool> DeleteMulti(IEnumerable<T> Entity);
         Task<bool> ModifySingle(T Entity);
     }
 }

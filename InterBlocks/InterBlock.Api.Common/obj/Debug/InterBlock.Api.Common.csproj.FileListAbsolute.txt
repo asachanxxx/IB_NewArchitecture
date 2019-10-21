@@ -49,6 +49,13 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\InterBlock.DataEngine.MySQL.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\Dapper.Contrib.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\Dapper.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\Dapper.Contrib.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\bin\Debug\Dapper.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.csproj.CopyComplete

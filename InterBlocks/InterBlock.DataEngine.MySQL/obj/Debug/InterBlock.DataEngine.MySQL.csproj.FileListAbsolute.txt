@@ -25,6 +25,7 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Enums.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\InterBlock.Helpers.Interfaces.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\bin\Debug\Dapper.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.MySQL\obj\Debug\InterBlock.DataEngine.MySQL.csproj.CopyComplete

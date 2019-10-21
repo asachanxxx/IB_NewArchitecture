@@ -1,8 +1,13 @@
-﻿using InterBlock.DataEngine.Common;
+﻿using Dapper;
+using Dapper.Contrib.Extensions;
+using InterBlock.DataEngine.Common;
 using InterBlock.Helpers.Configurations;
 using InterBlock.Helpers.Interfaces;
+using InterBlock.Helpers.Utilities;
 using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,40 +17,113 @@ namespace InterBlock.Repositories.Base
     public class ExtendedRepository<T> : DBContextExtendedBase, iRepositoryBase<T> where T : class
     {
         private IBConfiguration _config;
+        private string _tablename;
 
-        public ExtendedRepository(IBConfiguration config):base(config)
+        public ExtendedRepository(IBConfiguration Config, string TableName):base(Config)
         {
-            _config = config;
+            _config = Config;
+            _tablename = TableName;
         }
 
-        public Task<bool> DeleteMulti(T Entity)
+        public async Task<bool> DeleteMulti(IEnumerable<T> Entity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    foreach (var item in Entity)
+                    {
+                        var _ret_val = db.DeleteAsync(Entity);
+                    }
+
+                    return await Task.FromResult(true);
+                }
+            }
+            catch (Exception ex)
+            {
+                return await Task.FromResult(false);
+            }
         }
 
-        public Task<bool> DeleteSingle(T Entity)
+        public async Task<bool> DeleteSingle(T Entity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    var _ret_val = db.DeleteAsync(Entity);
+                    return await _ret_val;
+                }
+            }
+            catch (Exception ex)
+            {
+                return await Task.FromResult(false);
+            }
         }
 
-        public Task<bool> DeleteSingle(int Id)
+        public async Task<bool> DeleteSingle(int Id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    var _ret_val = await db.ExecuteAsync(MSSQLQueryCreater.CombineQueryForDelete(_tablename, "Id", Id));
+                    return _ret_val > 0 ? true : false;
+                }
+            }
+            catch (Exception ex)
+            {
+                return await Task.FromResult(false);
+            }
         }
 
-        public Task<IEnumerable<T>> FindALLRecords()
+        public async Task<IEnumerable<T>> FindALLRecords()
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    var _ret_val = await db.QueryAsync<T>(MSSQLQueryCreater.CombineQueryForSelectAll(_tablename, "Id"));
+                    return _ret_val;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
-        public Task<T> FindOneRecord(int Id)
+        public async Task<T> FindOneRecord(int _FK_value)
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    var _ret_val = await db.QuerySingleOrDefaultAsync<T>(MSSQLQueryCreater.CombineQueryForSelect(_tablename, "Id" , _FK_value));
+                    return _ret_val;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
-        public Task<bool> ModifySingle(T Entity)
+        public async Task<bool> ModifySingle(T Entity)
         {
-            throw new NotImplementedException();
+
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    var _ret_val = db.UpdateAsync(Entity);
+                    return await _ret_val;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public Task<int> SaveMulti(T Entity, int Action)
@@ -53,9 +131,20 @@ namespace InterBlock.Repositories.Base
             throw new NotImplementedException();
         }
 
-        public Task<int> SaveSingle(T Entity, int Action)
+        public async Task<int> SaveSingle(T Entity, int Action)
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (IDbConnection db = new SqlConnection(_config.Connection._ConnectionString))
+                {
+                    var _ret_val = await db.InsertAsync(Entity);
+                    return  _ret_val;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

@@ -25,6 +25,7 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Enums.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Interfaces.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\bin\Debug\Dapper.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csproj.CopyComplete

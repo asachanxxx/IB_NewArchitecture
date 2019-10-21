@@ -1,0 +1,5 @@
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb

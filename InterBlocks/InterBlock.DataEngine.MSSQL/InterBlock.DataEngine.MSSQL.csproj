@@ -63,6 +63,10 @@
       <Project>{c7b581e9-0775-48cb-8a47-ae37fa4fbfdb}</Project>
       <Name>InterBlock.Helpers.Interfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Utilities\InterBlock.Helpers.Utilities.csproj">
+      <Project>{b260ec27-475a-4c88-91d0-95be3011783e}</Project>
+      <Name>InterBlock.Helpers.Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -25,6 +25,7 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Enums.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Interfaces.pdb
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csprojAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csproj.CopyComplete
