@@ -1,92 +1,485 @@
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Antlr3.Runtime.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\EntityFramework.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\EntityFramework.SqlServer.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.BI.Models.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Repositories.Extended.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Web.Infrastructure.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Newtonsoft.Json.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Owin.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Net.Http.Formatting.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Helpers.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.Owin.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.WebHost.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Mvc.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Optimization.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Razor.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.WebPages.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\WebGrease.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Repositories.Extended.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Newtonsoft.Json.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Net.Http.Formatting.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Helpers.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.WebHost.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Mvc.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Optimization.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Razor.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.WebPages.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Antlr3.Runtime.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\EntityFramework.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\EntityFramework.SqlServer.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojAssemblyReference.cache
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csproj.CopyComplete
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Dapper.Contrib.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Dapper.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Dapper.Contrib.xml
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Dapper.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Antlr3.Runtime.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.SqlServer.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Web.Infrastructure.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Newtonsoft.Json.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Owin.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Net.Http.Formatting.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Helpers.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.Owin.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.WebHost.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Mvc.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Optimization.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Razor.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\WebGrease.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Newtonsoft.Json.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Net.Http.Formatting.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Helpers.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.WebHost.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Mvc.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Optimization.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Razor.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Antlr3.Runtime.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.SqlServer.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.BI.Models.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.Contrib.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.Contrib.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csproj.CoreCompileInputs.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csproj.CopyComplete
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Antlr3.Runtime.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.SqlServer.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.BI.Models.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Web.Infrastructure.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Newtonsoft.Json.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Owin.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Net.Http.Formatting.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Helpers.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.Owin.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.WebHost.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Mvc.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Optimization.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Razor.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\WebGrease.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.Contrib.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Newtonsoft.Json.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Net.Http.Formatting.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Helpers.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.WebHost.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Mvc.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Optimization.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Razor.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Antlr3.Runtime.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\EntityFramework.SqlServer.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.Contrib.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Antlr3.Runtime.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\EntityFramework.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\EntityFramework.SqlServer.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Web.Infrastructure.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Newtonsoft.Json.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Owin.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Net.Http.Formatting.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Helpers.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.WebHost.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Mvc.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Optimization.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Razor.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\WebGrease.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\IBMasterKey.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\IBLogger.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\iObjectSerializer.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\IBConfig.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\LogConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Encryptor.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Newtonsoft.Json.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Net.Http.Formatting.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Helpers.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.WebHost.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Mvc.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Optimization.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Razor.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Antlr3.Runtime.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\EntityFramework.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\EntityFramework.SqlServer.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.xml
+I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Antlr3.Runtime.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.SqlServer.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Web.Infrastructure.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Newtonsoft.Json.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Owin.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Net.Http.Formatting.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Helpers.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.WebHost.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Mvc.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Optimization.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Razor.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\WebGrease.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Newtonsoft.Json.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Net.Http.Formatting.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Helpers.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.WebHost.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Mvc.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Optimization.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Razor.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Antlr3.Runtime.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.SqlServer.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBConfig.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBConfigControl.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBLogger.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBMasterKey.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBTimeSpanControl.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.ViewModels.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.CyperEngine.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\Encryptor.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\LogConfiguration.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\iObjectSerializer.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.ViewModels.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.CyperEngine.pdb
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.dll
+D:\File\Statements\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.xml
+D:\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csproj.CopyComplete
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Antlr3.Runtime.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.SqlServer.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBConfig.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBConfigControl.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBLogger.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBMasterKey.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\IBTimeSpanControl.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.ViewModels.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.CyperEngine.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Web.Infrastructure.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Newtonsoft.Json.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Owin.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Net.Http.Formatting.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Helpers.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.WebHost.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Mvc.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Optimization.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Razor.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\WebGrease.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Encryptor.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\LogConfiguration.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\iObjectSerializer.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.ViewModels.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MSSQL.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.MySQL.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.PostgreSQL.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Configurations.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.CyperEngine.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Enums.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Interfaces.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Helpers.Utilities.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\InterBlock.Repositories.Base.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Newtonsoft.Json.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Net.Http.Formatting.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Helpers.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.WebHost.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Mvc.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Optimization.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Razor.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Deployment.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Antlr3.Runtime.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\EntityFramework.SqlServer.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Google.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb

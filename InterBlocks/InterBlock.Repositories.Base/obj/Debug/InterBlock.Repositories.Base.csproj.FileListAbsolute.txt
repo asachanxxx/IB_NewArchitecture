@@ -53,3 +53,187 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositori
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CopyComplete
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\Dapper.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\Dapper.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CoreCompileInputs.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CopyComplete
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CoreCompileInputs.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\Dapper.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\Dapper.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CopyComplete
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojResolveAssemblyReference.cache
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBMasterKey.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBLogger.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\iObjectSerializer.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBConfig.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\LogConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Encryptor.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.xml
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.xml
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.xml
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Newtonsoft.Json.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBMasterKey.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBLogger.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\iObjectSerializer.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBConfig.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\LogConfiguration.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Encryptor.dll
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Newtonsoft.Json.xml
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.xml
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csproj.CopyComplete
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Repositories.Base.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Newtonsoft.Json.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBMasterKey.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBLogger.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\iObjectSerializer.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBConfig.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\LogConfiguration.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Encryptor.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Configurations.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\Newtonsoft.Json.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojResolveAssemblyReference.cache
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb

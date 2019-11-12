@@ -41,7 +41,7 @@ namespace InterBlock.Repositories.Base
             }
             catch (Exception ex)
             {
-                return await Task.FromResult(false);
+                throw ex;
             }
         }
 
@@ -57,7 +57,8 @@ namespace InterBlock.Repositories.Base
             }
             catch (Exception ex)
             {
-                return await Task.FromResult(false);
+                throw ex;
+
             }
         }
 
@@ -73,7 +74,7 @@ namespace InterBlock.Repositories.Base
             }
             catch (Exception ex)
             {
-                return await Task.FromResult(false);
+                throw ex;
             }
         }
 

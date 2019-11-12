@@ -18,7 +18,7 @@ namespace InterBlock.Api.Service.Models
     {
         public string LocalLoginProvider { get; set; }
 
-        public string UserName { get; set; }
+        public string Email { get; set; }
 
         public IEnumerable<UserLoginInfoViewModel> Logins { get; set; }
 
@@ -27,7 +27,7 @@ namespace InterBlock.Api.Service.Models
 
     public class UserInfoViewModel
     {
-        public string UserName { get; set; }
+        public string Email { get; set; }
 
         public bool HasRegistered { get; set; }
 

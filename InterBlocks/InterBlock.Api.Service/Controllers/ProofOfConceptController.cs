@@ -7,6 +7,7 @@
                 
  */
 using InterBlock.BI.Models;
+using InterBlock.Helpers.Utilities;
 using InterBlock.Repositories.Base;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
+using System.Web;
 using System.Web.Http;
 
 namespace InterBlock.Api.Service.Controllers
@@ -24,6 +26,7 @@ namespace InterBlock.Api.Service.Controllers
         ExtendedRepository<Accounts> _repo;
         public ProofOfConceptController()
         {
+            
             _repo = new ExtendedRepository<Accounts>(new Helpers.Configurations.IBConfiguration() { Connection = new Helpers.Configurations.Connections(System.Configuration.ConfigurationManager.ConnectionStrings["SysConSQL"].ConnectionString ), DbType = Helpers.Enums.DataBaseType.MSSql }, "Accounts");
         }
 
@@ -40,10 +43,12 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                
                 return Request.CreateResponse<int>(HttpStatusCode.OK, await _repo.SaveSingle(Entity, 1));
             }
             catch (Exception ex)
             {
+                
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
             }
         }
@@ -110,13 +115,19 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                var IP = HttpHelpers.GetClientIp(Request);
+
                 return Request.CreateResponse<IEnumerable<Accounts>>(HttpStatusCode.OK, await _repo.FindALLRecords());
             }
             catch (Exception ex)
             {
+                Logger.LogExceptionOnControllers(ex, System.Reflection.MethodBase.GetCurrentMethod().Name);
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
             }
         }
+
+
+       
 
         [HttpGet]
         [Route("FindOneRecord")]
@@ -154,6 +165,7 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                //note that this sql is passed to demostrate this concept. but in real sinario you should encapsulate business requirments and these methods only accept Models or ViewModels or Primirive values
                 return Request.CreateResponse<IEnumerable<AccountsEssentialsVM>>(HttpStatusCode.OK, await _repo.QueryProcessor.QueryMultipleUsingSQLStatement<AccountsEssentialsVM>(SQL));
             }
             catch (Exception ex)
@@ -176,6 +188,7 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                //note that this sql is passed to demostrate this concept. but in real sinario you should encapsulate business requirments and these methods only accept Models or ViewModels or Primirive values
                 return Request.CreateResponse<IEnumerable<AccountsEssentialsVM>>(HttpStatusCode.OK, await _repo.QueryProcessor.QueryMultipleUsingStoredProcedure<AccountsEssentialsVM>(StoredProcedure));
             }
             catch (Exception ex)
@@ -198,6 +211,7 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                //note that this sql is passed to demostrate this concept. but in real sinario you should encapsulate business requirments and these methods only accept Models or ViewModels or Primirive values
                 return Request.CreateResponse<AccountsEssentialsVM>(HttpStatusCode.OK, await _repo.QueryProcessor.QuerySingleUsingSQLStatement<AccountsEssentialsVM>(SQL));
             }
             catch (Exception ex)
@@ -220,6 +234,7 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                //note that this sql is passed to demostrate this concept. but in real sinario you should encapsulate business requirments and these methods only accept Models or ViewModels or Primirive values
                 return Request.CreateResponse<AccountsEssentialsVM>(HttpStatusCode.OK, await _repo.QueryProcessor.QuerySingleUsingStoredProcedure<AccountsEssentialsVM>(StoredProcedure));
             }
             catch (Exception ex)

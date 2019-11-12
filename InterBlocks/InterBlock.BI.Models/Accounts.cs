@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Dapper.Contrib.Extensions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace InterBlock.BI.Models
 {
+    [Table("Accounts")]
     public class Accounts
     {
         public int Id { get; set; }
@@ -36,9 +38,3 @@ namespace InterBlock.BI.Models
         public string BRANCH_CODE { get; set; }
     }
 }
-
-
-/*
-  Id ,CARD_NO ,ACCOUNT_NO,BANK_CODE,BRANCH_CODE
-  
- * */

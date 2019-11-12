@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>InterBlock.Helpers.Configurations</RootNamespace>
     <AssemblyName>InterBlock.Helpers.Configurations</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Connections.cs" />
     <Compile Include="IBConfiguration.cs" />
+    <Compile Include="MainConfigurationPaths.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -49,6 +50,17 @@
       <Project>{1995e7ad-0834-44c2-a803-f974fee52d4c}</Project>
       <Name>InterBlock.Helpers.Enums</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="configs\StatementDataServiceLogConfiguration.cnf" />
+    <None Include="configs\StatementDataServiceLogConfiguration.key" />
+    <None Include="configs\SystemConfiguration.cnf" />
+    <None Include="configs\SystemConfiguration.key" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="configs\StatementDataServiceLogConfiguration.dll" />
+    <Content Include="configs\SystemConfiguration.dll" />
+    <Content Include="configs\SystemConfiguration.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

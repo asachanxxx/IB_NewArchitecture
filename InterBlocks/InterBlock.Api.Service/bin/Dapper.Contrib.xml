@@ -11,7 +11,7 @@
         </member>
         <member name="M:Dapper.Contrib.Extensions.SqlMapperExtensions.GetAsync``1(System.Data.IDbConnection,System.Object,System.Data.IDbTransaction,System.Nullable{System.Int32})">
             <summary>
-            Returns a single entity by a single id from table "Ts" asynchronously using Task. T must be of interface type. 
+            Returns a single entity by a single id from table "Ts" asynchronously using .NET 4.5 Task. T must be of interface type. 
             Id must be marked with [Key] attribute.
             Created entity is tracked/intercepted for changes and used by the Update() extension. 
             </summary>
@@ -37,7 +37,7 @@
         </member>
         <member name="M:Dapper.Contrib.Extensions.SqlMapperExtensions.InsertAsync``1(System.Data.IDbConnection,``0,System.Data.IDbTransaction,System.Nullable{System.Int32},ISqlAdapter)">
             <summary>
-            Inserts an entity into table "Ts" asynchronously using Task and returns identity id.
+            Inserts an entity into table "Ts" asynchronously using .NET 4.5 Task and returns identity id.
             </summary>
             <typeparam name="T">The type being inserted.</typeparam>
             <param name="connection">Open SqlConnection</param>
@@ -49,7 +49,7 @@
         </member>
         <member name="M:Dapper.Contrib.Extensions.SqlMapperExtensions.UpdateAsync``1(System.Data.IDbConnection,``0,System.Data.IDbTransaction,System.Nullable{System.Int32})">
             <summary>
-            Updates entity in table "Ts" asynchronously using Task, checks if the entity is modified if the entity is tracked by the Get() extension.
+            Updates entity in table "Ts" asynchronously using .NET 4.5 Task, checks if the entity is modified if the entity is tracked by the Get() extension.
             </summary>
             <typeparam name="T">Type to be updated</typeparam>
             <param name="connection">Open SqlConnection</param>
@@ -60,7 +60,7 @@
         </member>
         <member name="M:Dapper.Contrib.Extensions.SqlMapperExtensions.DeleteAsync``1(System.Data.IDbConnection,``0,System.Data.IDbTransaction,System.Nullable{System.Int32})">
             <summary>
-            Delete entity in table "Ts" asynchronously using Task.
+            Delete entity in table "Ts" asynchronously using .NET 4.5 Task.
             </summary>
             <typeparam name="T">Type of entity</typeparam>
             <param name="connection">Open SqlConnection</param>
@@ -71,7 +71,7 @@
         </member>
         <member name="M:Dapper.Contrib.Extensions.SqlMapperExtensions.DeleteAllAsync``1(System.Data.IDbConnection,System.Data.IDbTransaction,System.Nullable{System.Int32})">
             <summary>
-            Delete all entities in the table related to the type T asynchronously using Task.
+            Delete all entities in the table related to the type T asynchronously using .NET 4.5 Task.
             </summary>
             <typeparam name="T">Type of entity</typeparam>
             <param name="connection">Open SqlConnection</param>

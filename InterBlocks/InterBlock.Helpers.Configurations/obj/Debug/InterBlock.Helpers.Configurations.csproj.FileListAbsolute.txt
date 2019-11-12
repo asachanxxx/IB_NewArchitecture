@@ -12,3 +12,54 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Co
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csproj.CopyComplete
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb

@@ -3,3 +3,85 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Ut
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\mscorlib.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\normidna.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\normnfc.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\normnfd.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\normnfkc.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\normnfkd.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Encryptor.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBConfig.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBConfigControl.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBLogger.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBMasterKey.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBTimeSpanControl.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\LogConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\iObjectSerializer.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.xml
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.xml
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Encryptor.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBConfig.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBConfigControl.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBLogger.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBMasterKey.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBTimeSpanControl.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\LogConfiguration.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\iObjectSerializer.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.xml
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.xml
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csproj.CopyComplete
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Encryptor.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBConfig.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBConfigControl.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBLogger.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBMasterKey.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Configurations.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Enums.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\IBTimeSpanControl.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\LogConfiguration.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\iObjectSerializer.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Configurations.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.xml
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Enums.pdb
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb

@@ -57,3 +57,53 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositori
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.Contrib.xml
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csprojAssemblyReference.cache
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csproj.CopyComplete
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Extended.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Extended.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.BI.Models.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.Common.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.DB2.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.MySQL.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Base.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.Contrib.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Utilities.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.BI.Models.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.Common.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.DB2.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Base.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\Dapper.Contrib.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Utilities.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csprojAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csproj.CoreCompileInputs.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csproj.CopyComplete
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Extended.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Repositories.Extended.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.DB2.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.MySQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.DB2.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Repositories.Extended\obj\Debug\InterBlock.Repositories.Extended.pdb
