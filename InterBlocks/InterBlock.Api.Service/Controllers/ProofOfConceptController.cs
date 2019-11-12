@@ -9,6 +9,7 @@
 using InterBlock.BI.Models;
 using InterBlock.Helpers.Utilities;
 using InterBlock.Repositories.Base;
+using Interblocks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,6 +37,30 @@ namespace InterBlock.Api.Service.Controllers
          * these can use to minipulate data for any given object and corresponding table must be there in the database of supplied connection
          * Only passing class related data can be minipulated using these set of methods
          *******************************************************************************************************************************************************************************/
+
+        [HttpGet]
+        [Route("GetConfigurations")]
+        public async Task<HttpResponseMessage> GetConfigurations(string passcode)
+        {
+            try
+            {
+                if (passcode.Trim().ToUpper() == "IB@PASS")
+                {
+                    var config = SystemConfiguration.GetProperties();
+                    await Task.CompletedTask;
+                    return Request.CreateResponse<List<CProperty>>(HttpStatusCode.OK, config);
+                }
+                else {
+                    return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, new Exception("Invalied Passcode"));
+                }
+            }
+            catch (Exception ex)
+            {
+
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
+            }
+        }
+
 
         [HttpPost]
         [Route("SaveSingle")]

@@ -30,15 +30,47 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="IBConfig, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL Pack\IBConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="IBConfigControl">
+      <HintPath>..\DLL Pack\IBConfigControl.dll</HintPath>
+    </Reference>
+    <Reference Include="IBLogger, Version=2.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL Pack\IBLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="IBMasterKey, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL Pack\IBMasterKey.dll</HintPath>
+    </Reference>
+    <Reference Include="IBTimeSpanControl">
+      <HintPath>..\DLL Pack\IBTimeSpanControl.dll</HintPath>
+    </Reference>
+    <Reference Include="iObjectSerializer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL Pack\iObjectSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="LogConfiguration, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL Pack\LogConfiguration.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+    <Reference Include="SystemConfiguration, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL Pack\SystemConfiguration.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConfigurationRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQLQueryRepository.cs" />
   </ItemGroup>

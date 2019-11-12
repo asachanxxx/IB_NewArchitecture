@@ -6,6 +6,7 @@ using Owin;
 using InterBlock.Helpers.Utilities;
 using InterBlock.Helpers.Configurations;
 using System.IO;
+using InterBlock.Repositories.ConfigurationLoaders;
 
 [assembly: OwinStartup(typeof(InterBlock.Api.Service.Startup))]
 
@@ -26,6 +27,7 @@ namespace InterBlock.Api.Service
         public static void RegisterStartupParams() {
 
             InitializePaths();
+            ConfigurationRepository.InitializeConfigurations();
             Logger.LoggerInitialize();
             Logger.LogHeader();
             Logger.LogInfo("Starting Application on Date", DateTime.Now.ToString("dd/MMM/yyyy HH:mm:ss"));
