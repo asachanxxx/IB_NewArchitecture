@@ -13,7 +13,7 @@ namespace InterBlock.Api.Service.Controllers
         // GET: /Configurations/
         public ActionResult Index()
         {
-
+            
             IEnumerable<Interblocks.CProperty> prop = new List<CProperty>();
             var config = SystemConfiguration.GetProperties();
             return View(config);

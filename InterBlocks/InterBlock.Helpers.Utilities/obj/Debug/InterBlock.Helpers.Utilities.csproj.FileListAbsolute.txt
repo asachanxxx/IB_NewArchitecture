@@ -1,8 +1,3 @@
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojAssemblyReference.cache
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
 D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
 D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
 D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\mscorlib.dll
@@ -85,3 +80,24 @@ E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\InterBlo
 E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
 E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
 E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\Encryptor.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\IBConfig.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\IBConfigControl.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\IBLogger.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\IBMasterKey.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\IBTimeSpanControl.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\LogConfiguration.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\iObjectSerializer.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb

@@ -1,37 +1,113 @@
 ﻿@*@model InterBlock.Api.Service.Models.ConfigurationsVM*@
 @model IEnumerable<Interblocks.CProperty>
 
+@using (Html.BeginForm())
+{
   <div class="container">
       <h2>System Configurations</h2>
       <div class="card" >
           <div class="card-header" style="background-color:black; color:white">General Settings</div>
           <div class="card-body">
 
+
               <table class="table table-secondary">
                   <tbody>
-
                       @foreach (var configmodels in Model)
                       {
                           if (configmodels.Section == "General Settings")
                           {
 
                               <tr>
-                                  <td width="30%"><strong> @configmodels.Name</strong></td>
-                                  <td width="60%">@configmodels.Value</td>
-                                  <td>
-                                      <button type="button" class="btn btn-primary btn-sm">Save</button>
+                                  <td style="padding-top: 8px; padding-bottom: 8px;" width="25%">
+                                      <strong> @configmodels.Name</strong>
                                   </td>
+                                  <td width="65%" style="vertical-align: middle; padding-top: 0px; padding-bottom: 0px;">
+                                      @switch (configmodels.Name)
+                                        {
+                                            case "START_SERVICE_AUTO":
+                                               @Html.CheckBox(configmodels.Name, new { value = false, @checked = false });
+                                                break;
+                                            case "IGNORE_COLUMN_HEADER":
+                                        <input type="checkbox" name="vehicle1" checked="@configmodels.Value.ToLower()">
+                                              break;
+                                          case "SHOW_BACKGROUND_PROGRESS":
+                                        <input type="checkbox" name="vehicle1" checked="@configmodels.Value.ToLower()">
+                                              break;
+                                          case "PCI_ENABLE":
+                                        <input type="checkbox" name="vehicle1" checked="@configmodels.Value.ToLower()">
+                                              break;
+                                          default:
+                                          <input type="text" placeholder="" value="@configmodels.Value" style="width: 500px; max-width: 500px;" />
+                                              break;
+                                      }
 
+                                  </td>
                               </tr>
+
                           }
-                      }
-
-
-
+                          }
                   </tbody>
               </table>
 
-            
+              <div class="card-header" style="background-color:black; color:white">Print Status</div>
+              <table class="table table-secondary">
+                  <tbody>
+                      @foreach (var configmodels in Model)
+                      {
+
+                          if (configmodels.Section == "Print Status")
+                          {
+
+                              <tr>
+                                  <td style="padding-top: 8px; padding-bottom: 8px;" width="25%">
+                                      <strong> @configmodels.Name</strong>
+                                  </td>
+                                  <td width="65%" style="vertical-align: middle; padding-top: 0px; padding-bottom: 0px;">
+                                      <input type="text" placeholder="" value="@configmodels.Value" style="width: 500px; max-width: 500px;" />
+                                  </td>
+                              </tr>
+
+                          }
+
+                      }
+                  </tbody>
+              </table>
+
+              <div class="card-header" style="background-color:black; color:white">Version</div>
+              <table class="table table-secondary">
+                  <tbody>
+                      @foreach (var configmodels in Model)
+                      {
+
+                          if (configmodels.Section == "Version")
+                          {
+
+                              <tr>
+                                  <td style="padding-top: 8px; padding-bottom: 8px;" width="25%">
+                                      <strong> @configmodels.Name</strong>
+                                  </td>
+                                  <td width="65%" style="vertical-align: middle; padding-top: 0px; padding-bottom: 0px;">
+                                      <input type="text" placeholder="" value="@configmodels.Value" style="width: 500px; max-width: 500px;" />
+                                  </td>
+                              </tr>
+
+                          }
+
+                      }
+                  </tbody>
+              </table>
+
+
+
+
+          </div>
+
+
+
+          <div class="card-footer">
+              <button type="button" class="btn btn-primary btn-sm">Save</button>
+
           </div>
       </div>
   </div>
+}

@@ -483,8 +483,6 @@ E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\bin\Dapper.xml
 E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
 E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
 E:\IB\File\Statements\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
-I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
@@ -587,4 +585,6 @@ I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Servic
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Dapper.Contrib.xml
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\bin\Dapper.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
 I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
