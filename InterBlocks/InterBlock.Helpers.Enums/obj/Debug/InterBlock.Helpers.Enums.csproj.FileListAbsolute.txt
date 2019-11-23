@@ -35,3 +35,8 @@ E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Enums\bin\Debug\InterBlock.H
 E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojResolveAssemblyReference.cache
 E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
 E:\IB\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb

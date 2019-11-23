@@ -38,3 +38,12 @@ E:\IB\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.x
 E:\IB\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojResolveAssemblyReference.cache
 E:\IB\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
 E:\IB\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\bin\Debug\Dapper.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\bin\Debug\Dapper.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.xml
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb
